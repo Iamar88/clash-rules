@@ -17391,7 +17391,6 @@ payload:
   - '+.peacehillbb.com'
   - '+.peachy18.com'
   - '+.peachyforum.com'
-  - '+.peacocktv.com'
   - '+.pearlher.org'
   - '+.pearson-anaya.com'
   - '+.pearson-intl.com'
